@@ -1,0 +1,22 @@
+{
+  "name": "hms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahul M. Desai",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^1.30.0",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "fabric-ca-client": "*",
+    "fabric-client": "*",
+    "grpc": "^1.6.0",
+    "jsonwebtoken": "^8.3.0",
+    "mongoose": "^5.2.8",
+    "nodemailer": "^0.7.1"
+  }
+}
